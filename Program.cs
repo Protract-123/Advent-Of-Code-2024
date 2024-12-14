@@ -10,7 +10,10 @@ internal class Program
             { 11, Day1.Day1.Part1 },
             { 12, Day1.Day1.Part2 },
             { 21, Day2.Day2.Part1 },
-            { 22, Day2.Day2.Part2 }
+            { 22, Day2.Day2.Part2 },
+            { 31, Day3.Day3.Part1 },
+            { 32, Day3.Day3.Part2 },
+
         };
 
         // Prompt the user to enter the day and part
